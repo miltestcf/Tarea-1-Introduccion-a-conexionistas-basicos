@@ -31,7 +31,7 @@ compatibility_disjoint_coefficient = 1.0
 compatibility_weight_coefficient   = 0.5
 
 # connection add/remove rates
-conn_add_prob           = 0.5
+conn_add_prob           = 0.3
 conn_delete_prob        = 0.5
 
 # connection enable options
@@ -79,3 +79,4 @@ species_elitism      = 2
 [DefaultReproduction]
 elitism            = 2
 survival_threshold = 0.2
+
